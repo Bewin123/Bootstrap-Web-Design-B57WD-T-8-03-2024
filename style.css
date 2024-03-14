@@ -1,0 +1,33 @@
+/* Custom Styles */
+body {
+    padding-top: 16px;
+    color: #000000;
+    background-color: rgb(144, 137, 134);
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #ffffff;
+}
+
+.bg-light {
+    background-color: #eff3f8;
+}
+
+.py-5 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.rounded-circle {
+    border: 5px solid #fefefe;
+}
+
+/* Add more custom styles as needed */
